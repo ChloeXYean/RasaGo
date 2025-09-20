@@ -1,7 +1,7 @@
 # 🍽️ Food Order Restaurant App - RasaGo
 
 A mobile application that allows users to browse menus, place food orders, and manage payments in a restaurant setting.  
-Built with **Android (Kotlin/Java)** and **SQLite/Firebase** for data storage.  
+Built with **Android (Kotlin)** and **SQLite** for data storage.  
 
 ---
 
