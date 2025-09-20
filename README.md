@@ -23,7 +23,9 @@ Built with **Android (Kotlin)** and **SQLite** for data storage.
 ---
 
 ## 📷 Screenshots
-_Add screenshots or GIF demos here (e.g., menu screen, cart screen, checkout)._  
+<img width="313" height="679" alt="image" src="https://github.com/user-attachments/assets/a74d64c8-f8a7-4974-85a4-e611b0e0a7c2" />
+<img width="306" height="681" alt="image" src="https://github.com/user-attachments/assets/f15b07ea-a6a6-472c-9316-cca0fda423e4" />
+--Others..
 
 ---
 
